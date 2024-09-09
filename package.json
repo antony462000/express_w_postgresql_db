@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "express_w_postgresql_db",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antony462000/express_w_postgresql_db.git"
+  },
+  "keywords": [
+    "postgresql"
+  ],
+  "author": "Antony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antony462000/express_w_postgresql_db/issues"
+  },
+  "homepage": "https://github.com/antony462000/express_w_postgresql_db#readme",
+  "description": ""
+}
